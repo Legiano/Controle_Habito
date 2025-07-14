@@ -1,16 +1,22 @@
-# controle_habitos
+# 📱 Controle de Hábitos
 
-A new Flutter project.
+Um aplicativo Flutter com backend em Node.js para ajudar você a criar, acompanhar e manter hábitos diários com facilidade.  
+Ideal para quem busca organização, produtividade e progresso pessoal.
 
-## Getting Started
+Inclui registro de hábitos, histórico, estatísticas visuais e notificações.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Funcionalidades
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- ✅ **Criar e editar hábitos**
+- 📅 **Definir dias da semana** para cada hábito
+- 🔔 **Notificações locais** para lembrar dos hábitos
+- 📈 **Gráfico de progresso**
+- 📋 **Lista de todos os hábitos cadastrados**
+- 🕒 **Histórico de hábitos concluídos**
+- 🗑️ **Excluir hábitos e conclusões com facilidade**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📂 Estrutura do Projeto
+
