@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Diretórios de build
+dist/
+build/
+
+# Arquivo de ambiente
+.env
+
+# Flutter build (se houver build dentro do backend, senão ignore)
+build/
+
+# Arquivos gerados do sistema
+.DS_Store
+Thumbs.db
